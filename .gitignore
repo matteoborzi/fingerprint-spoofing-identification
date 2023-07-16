@@ -1,0 +1,26 @@
+# Videos and downloads
+*.mp4
+*.zip
+
+# MLPR-specific files and folders
+*.tex
+*_old.py
+*_old.log
+table_converter.py
+
+Videolezioni/
+Resources/
+2022/
+img/
+
+# Temp
+test_*
+Report/
+tmp.log
+
+# Environment
+Pycharm_Workspace/
+.idea
+*venv/
+__pycache__/
+
